@@ -204,6 +204,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Sebi_SimpleVote_M223.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
